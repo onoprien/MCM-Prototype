@@ -1,1 +1,1 @@
-Trying out MCM ideas.
+Trying out ideas for MCM and related components.
